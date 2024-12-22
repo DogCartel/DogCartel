@@ -1,8 +1,5 @@
 {
 	"name": "DOGCARTEL",
 	"symbol": "DOGCARTEL",
-	"uri": "https://dogcartel.xyz/presale/metadata.json",
-	"image": "https://dogcartel.xyz/presale/image.png",
-	"sellerFeeBasisPoints": 0,
-	"creators": null
+	"image": "https://raw.githubusercontent.com/DogCartel/DogCartel/refs/heads/main/image.png"
 }
