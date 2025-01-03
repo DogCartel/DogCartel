@@ -1,5 +1,15 @@
 {
-	"name": "DOGCARTEL",
-	"symbol": "DOGCARTEL",
-	"image": "https://raw.githubusercontent.com/DogCartel/DogCartel/refs/heads/main/image.png"
+	"name":"DogCartel",
+	"symbol":"DOGCARTEL",
+	"image":"https://raw.githubusercontent.com/DogCartel/DogCartel/refs/heads/main/image.png",
+	"description":"",
+	"extensions":{
+		"website":"https://www.dogcartel.xyz/",
+		"twitter":"https://x.com/DogCartel",
+		"telegram":"https://t.me/DogCartel"
+	},
+	"creator":{
+		"name":"DOG CARTEL DEVs",
+		"site":"https://www.dogcartel.xyz"
+	}
 }
